@@ -111,3 +111,7 @@ For support, feature requests, or bug reports, please file an issue through the 
 ## Acknowledgements
 
 This tool was developed in collaboration with the authors of the Model Openness Framework and the Linux Foundation. Special thanks to Matt White, Ibrahim Haddad, Cailean Osborne, Xiao-Yang Liu, Ahmed Abdelmonsef, Sachin Mathew Varghese, and Arnaud J Le Hors for their invaluable input and guidance. The code was primarily written by [Greg MacKenzie](https://gregcube.com/).
+
+---
+
+© 2026 Gareth Lee Douglas Kirman. All rights reserved. Full copyright.
